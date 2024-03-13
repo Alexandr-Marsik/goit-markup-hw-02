@@ -14,7 +14,7 @@ img {
 body {
     font-family: "Roboto", sans-serif;
     background-color: #ffffff;
-    color: #2e2f42;
+    color: #434455;
 }
 
 
@@ -43,6 +43,9 @@ body {
 }
 
 
+.page-address {
+font-style: normal;
+}
 .address-item {
     font-weight: 400;
     font-size: 16px;
@@ -69,8 +72,6 @@ body {
 }
 .hero-btn {
     border-radius: 4px;
-    width: 169px;
-    height: 56px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
