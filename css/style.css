@@ -99,24 +99,18 @@ font-style: normal;
 .section-team {
     background-color: #f4f4fd;
 }
+
 .our-team-title {
     font-size: 36px;
     line-height: 1.11;
-    letter-spacing: 0.02em;  
-    color: #2e2f42;
+    letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize;
+    color: #2e2f42;
 }
 .team-item {
     background: #fff;
 }
-.job-title {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 
 
 
