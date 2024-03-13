@@ -79,5 +79,10 @@ font-style: normal;
     color: #ffffff;
     background-color: #4d5ae5;
 }
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #404BBF;
+}
+
 
 
