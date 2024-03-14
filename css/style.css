@@ -145,6 +145,14 @@ font-style: normal;
     letter-spacing: 0.02em;
 }
 
-
-
-
+.page-footer {
+    background-color: #2e2f42;
+}
+.logo-part-footer {
+    color: #f4f4fd;
+}
+.text-footer {     
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
